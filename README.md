@@ -3,4 +3,4 @@
 + libraries used : swiperjs & scrollrevealjs
 + Includes a dark and light mode
 
-+ **LIVE DEMO** : https://abdellah-idrissi.github.io/watches-ecommerce-website/
++ [**LIVE DEMO**](https://abdellah-idrissi.github.io/watches-ecommerce-website/)
